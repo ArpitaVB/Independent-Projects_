@@ -1,0 +1,8 @@
+File Formats:
+1).ipynb :To be opened with Juptyer notebook
+2).py : any ide (I prefer Pycharm)
+
+Link to install jupyter notebook:
+http://jupyter.org/install
+
+THANK YOU!
